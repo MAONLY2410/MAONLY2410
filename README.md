@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAONLY2410 from Costa Rica I'm new in this world.
-- 👀 I’m interested in frontend/backend learn more to this world.
-- 🌱 I’m currently learning java and wed design.
+- 👀 I’m interested in QA.
+- 🌱 I’m don´t know where start but I have a goal.
 - 📫 How to reach me bymynimonya@gmail.com
 
 <!---
