@@ -1,40 +1,41 @@
-<h1 align="center">👋 Bienvenido al espacio técnico de Máximo</h1>
-<p align="center"><em>Documentación clara, procesos escalables y visión institucional</em></p>
+# 👋 Bienvenido al espacio técnico de Máximo  
+*Documentación clara, procesos escalables y visión institucional*
 
-<hr>
+---
 
-<h2>🧭 Sobre mí</h2>
-<p>Soy Máximo, apasionado por la documentación técnica, la mejora de procesos y la creación de recursos que trascienden equipos. Este perfil reúne mis proyectos, experimentos y contribuciones en entornos IT, con énfasis en claridad, estructura y utilidad institucional.</p>
+## 🧭 Sobre mí
 
-<hr>
+Soy Máximo, apasionado por la documentación técnica, la mejora de procesos y la creación de recursos que trascienden equipos. Este perfil reúne mis proyectos, experimentos y contribuciones en entornos IT, con énfasis en claridad, estructura y utilidad institucional.
 
-<h2>📂 Repositorios destacados</h2>
-<ul>
-  <li><strong>technical-doc</strong> – 📄 Documentos técnicos, especificaciones y guías institucionales</li>
-  <li><strong>Signals-YoloV5s</strong> – 🧠 Dataset personalizado y entrenamiento con Python</li>
-  <li><strong>Practice</strong> – 🧪 Pruebas con HTML y diseño de interfaces</li>
-  <li><strong>testprojectcore / TestPochoCoreJenkins</strong> – ⚙️ Proyectos en C# con enfoque en integración y automatización</li>
-  <li><strong>sis-taller</strong> – 🎓 Trabajo académico en PHP</li>
-</ul>
+---
 
-<hr>
+## 📂 Repositorios destacados
 
-<h2>📐 Frameworks que aplico</h2>
-<ul>
-  <li>📚 <strong>Diátaxis</strong>: estructura por intención (tutorial, referencia, explicación, guía)</li>
-  <li>🔄 <strong>ITIL</strong>: gestión de servicios IT</li>
-  <li>🧩 <strong>BPMN</strong>: modelado de procesos</li>
-  <li>🧠 <strong>KCS</strong>: gestión del conocimiento colaborativo</li>
-</ul>
+- **technical-doc** – 📄 Documentos técnicos, especificaciones y guías institucionales  
+- **Signals-YoloV5s** – 🧠 Dataset personalizado y entrenamiento con Python  
+- **Practice** – 🧪 Pruebas con HTML y diseño de interfaces  
+- **testprojectcore / TestPochoCoreJenkins** – ⚙️ Proyectos en C# con enfoque en integración y automatización  
+- **sis-taller** – 🎓 Trabajo académico en PHP  
 
-<hr>
+---
 
-<h2>📊 Visión de legado</h2>
-<p>Mi objetivo no es solo completar tareas, sino dejar recursos que escalen, inspiren y perduren. Cada repositorio busca aportar claridad, facilitar el onboarding y servir como base para mejoras futuras.</p>
+## 📐 Frameworks que aplico
 
-<p align="center"><strong>📬 ¿Te interesa colaborar o adaptar estos recursos?</strong> Abre un issue o contáctame vía GitHub.</p>
+- 📚 **Diátaxis**: estructura por intención (tutorial, referencia, explicación, guía)  
+- 🔄 **ITIL**: gestión de servicios IT  
+- 🧩 **BPMN**: modelado de procesos  
+- 🧠 **KCS**: gestión del conocimiento colaborativo  
+
+---
+
+## 📊 Visión de legado
+
+Mi objetivo no es solo completar tareas, sino dejar recursos que escalen, inspiren y perduren. Cada repositorio busca aportar claridad, facilitar el onboarding y servir como base para mejoras futuras.
+
+**📬 ¿Te interesa colaborar o adaptar estos recursos?**  
+Abre un issue o contáctame vía GitHub.
+
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAONLY2410&show_icons=true&theme=radical)
-<!---
-MAONLY2410/MAONLY2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAONLY2410&layout=compact&theme=radical)
