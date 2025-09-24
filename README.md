@@ -33,6 +33,7 @@
 <p>Mi objetivo no es solo completar tareas, sino dejar recursos que escalen, inspiren y perduren. Cada repositorio busca aportar claridad, facilitar el onboarding y servir como base para mejoras futuras.</p>
 
 <p align="center"><strong>📬 ¿Te interesa colaborar o adaptar estos recursos?</strong> Abre un issue o contáctame vía GitHub.</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MAONLY2410&show_icons=true&theme=transparent)
 <!---
 MAONLY2410/MAONLY2410 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
