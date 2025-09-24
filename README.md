@@ -37,5 +37,5 @@ Abre un issue o contáctame vía GitHub.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAONLY2410&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAONLY2410&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAONLY2410&show_icons=true&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAONLY2410&layout=compact&theme=rose)
